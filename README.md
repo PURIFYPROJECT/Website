@@ -1,10 +1,10 @@
 # Website
-Files and information for the website for testing and improvement.
+Website files for usage.
 
 
 
--------------
-WEBSITE FILES
+
+SOURCE FILES
 -------------
 site-theme.zip
 
