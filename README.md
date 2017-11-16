@@ -1,4 +1,4 @@
-# SOURCE FILES
+# Source Files
 
 site-theme.zip
 
