@@ -1,11 +1,5 @@
-# Website
-Website files for usage.
-
-
-
-
-SOURCE FILES
--------------
+# SOURCE FILES
+--------------
 site-theme.zip
 
 images.zip
